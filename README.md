@@ -6,11 +6,11 @@
 
 ## Sobre o projeto
 
-<p>Projeto criado para praticar conhecimentos e conceitos de HTML e CSS do curso Desenvolvimento web full stack do programadorBr.</p>
+<p>Projeto criado para praticar conhecimentos e conceitos de HTML e CSS do curso "Desenvolvimento Web Full Stack" do ProgramadorBr.</p>
 
-## 🚀 Tecnológias
+## 🚀 Tecnologias
 
-This project was developed with the following technologies:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ HTML
 
